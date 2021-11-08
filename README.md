@@ -1,6 +1,8 @@
-# ExtraPoints2
+# Advanced version of blind Labyrinth
 
-Project for the course of "Architetture dei sistemi di elaborazione" at "Politecnico di Torino" 
+## Project for the course of "Architetture dei sistemi di elaborazione" at "Politecnico di Torino" 
+
+First of all, read https://github.com/Mariagrazia98/Blind-Labyrinth/blob/main/README.md documentation
 
 The joystick replaces the ROTATE and RUN buttons and works in two modes that can be controlled by the SELECT button: 
 
